@@ -1,0 +1,28 @@
+.body{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 600px;
+    height: 550px;
+    margin: auto;
+    background: palevioletred;
+}
+
+h1{
+    border: 1px solid;
+    width: 70%;
+    border-radius: 20px;
+    background: pink;
+}
+
+.bio{
+    border: 1px solid black;
+    width: 350px;
+    margin: auto;
+    background: hotpink;
+}
+.caca{
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 80px
+}
